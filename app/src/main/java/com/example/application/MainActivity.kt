@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // feature-signin -> ui elements
         // test-signin-ui -> added tests, merge1
+        // feature-signin -> added validation
     }
 }
