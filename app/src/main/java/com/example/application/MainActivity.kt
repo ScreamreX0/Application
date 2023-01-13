@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // feature-signin -> create new branch
+        // feature-signin -> ui elements
     }
 }
