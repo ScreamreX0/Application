@@ -9,8 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // feature-signin -> ui elements
-        // test-signin-ui -> added tests, merge1
-        // feature-signin -> added validation
-        // feature-signin -> added validation
+        // test-signin-ui -> added tests, merge12
     }
 }
